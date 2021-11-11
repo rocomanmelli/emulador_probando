@@ -1,0 +1,25 @@
+#Exclude files created during compilation.
+
+Debug/
+F2833x_RAM/
+targetConfigs/
+.launches/
+.settings/
+.vscode/
+*.prefs
+*.opt
+*.obj
+*.pp
+*.d
+*.xml
+*.map
+*.out
+*.mk
+*.cPreview
+*.launch
+*.pdf
+*makefile
+.project_initial
+.cdtbuild
+.cdtbuild_initial
+.cdtproject
